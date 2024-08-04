@@ -1,0 +1,38 @@
+body{
+    background-color:#a8d6d6
+}
+
+.sign-in{
+    background-color: darkgrey;
+    border-radius: 10px;
+    border-color: white;
+    border: none;
+    width: 100px;
+    height: 50px;
+}
+
+.registration{
+    background-color: darkgrey;
+    MARGIN-left: 10%;
+    border-radius: 10px;
+    border-color: white;
+    border: none;
+    width: 150px;
+    height: 50px;
+}
+
+.sign-in::before{
+    background-color: #a8d6d6;
+}
+
+.buttons{
+    display: flex;
+    padding-left: 80%;
+}
+
+.info{
+    display: flex;
+    margin: 20% 30%;
+    width: 1000px;
+    font-size: 30px;
+}

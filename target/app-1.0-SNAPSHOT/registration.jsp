@@ -8,14 +8,12 @@
 </head>
 <body>
 <div class="reg">
-    <form action="welcome">
-        <h2>Регистрация</h2>
-        <input type="text" class = "input">
-        <p>Логин</p>
-        <input type="password" class = "input">
-        <p>Пароль</p>
-        <button>Зарегистрироваться</button>
-    </form>
+    <h2>Регистрация</h2>
+    <input type="text" class = "input">
+    <p>Логин</p>
+    <input type="password" class = "input">
+    <p>Пароль</p>
+    <button>Зарегистрироваться</button>
 </div>
 </body>
 </html>
